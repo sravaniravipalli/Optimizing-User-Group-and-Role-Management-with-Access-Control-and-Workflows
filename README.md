@@ -92,9 +92,24 @@ Actions: Auto-update status, request approvals
 
 Update records and confirm workflow triggers and approvals for task management
 
+**Conclusion:**
+
+Key project outcomes.
+
+Getting Started Clone the repository
+
+git clone https://github.com/your-username/your-repo-name.git
+
+Set up a ServiceNow Developer instance at https://developer.servicenow.com/.
+
+Follow the documentation or wiki provided in this repo for step-by-step setup instructions.
+
 **Demo Link**
+
 https://drive.google.com/file/d/1321ZFTj30gjY0cPEeypz21PrTKLugWmo/view?usp=drivesdk
+
 **Usage**
+
 Project managers can create, assign, and update tasks.
 
 Team members can view and update only their assigned tasks.
