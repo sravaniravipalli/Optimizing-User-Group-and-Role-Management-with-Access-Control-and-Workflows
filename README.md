@@ -1,10 +1,13 @@
 **ServiceNow Project: Optimizing User, Group, Role, Table, ACL, and Workflow Management**
+
 This project provides a structured approach to defining and managing users, roles, groups, tables, ACLs, and automated workflows in ServiceNow for a small project management team.
 
 **Project Overview**
+
 The solution aims to resolve the lack of clear role definitions, access controls, and workflow organization in project management. It demonstrates how to set up a ServiceNow-based environment to enhance accountability, streamline task assignments, and improve progress tracking for team members like a Project Manager and a Team Member.
 
 **Features**
+
 User creation and management (Project Manager, Team Member)
 
 Group configuration for project teams
@@ -22,12 +25,15 @@ ACL (Access Control List) setup for data security
 Automated workflow using Flow Designer for task and approval management
 
 **Installation & Setup**
+
 **Prerequisites**
+
 ServiceNow instance access
 
 Admin privileges in ServiceNow
 
 **Steps**
+
 **Create Users**
 
 Navigate: All > Users (System Security)
@@ -63,6 +69,7 @@ Add columns for names, descriptions, assignments, statuses, comments
 Edit group membership and confirm Alice and Bob are members
 
 **Assign Applications to Roles**
+
 Assign table applications to appropriate roles through the Application Navigator
 
 **Configure ACLs**
